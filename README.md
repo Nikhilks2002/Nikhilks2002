@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 Currently working on:<br>Building modern, responsive web applications with HTML, CSS, JavaScript, and React.js.
+## 🔭 Currently working on:<br>
+- Building modern, responsive web applications with HTML, CSS, JavaScript, and React.js.
 - Exploring full-stack development by integrating backend technologies.<br>
 - 🤝 Looking to collaborate on:<br>Web development projects, especially those involving frontend technologies or beginner-friendly backend tasks.<br><br>
 ## 🌱 Currently learning:<br>
