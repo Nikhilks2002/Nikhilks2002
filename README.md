@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 Currently working on:<br>Building modern, responsive web applications with HTML, CSS, JavaScript, and React.js. Exploring full-stack development by integrating backend technologies.<br>🤝 Looking to collaborate on:<br>Web development projects, especially those involving frontend technologies or beginner-friendly backend tasks.<br><br>🌱 Currently learning:<br>Backend development with Node.js, Express.js, and MongoDB<br>Building RESTful APIs<br>Authentication and security basics<br>Deploying full-stack applications<br><br>💬 Ask me about:<br>Frontend development (HTML, CSS, JavaScript, React)<br>Responsive web design and UI best practices<br>Learning resources for web development<br><br>😄 Fun fact:<br>I love solving coding challenges late at night—it’s my idea of fun!
+- 🔭 Currently working on:<br>Building modern, responsive web applications with HTML, CSS, JavaScript, and React.js.
+- Exploring full-stack development by integrating backend technologies.<br>
+- 🤝 Looking to collaborate on:<br>Web development projects, especially those involving frontend technologies or beginner-friendly backend tasks.<br><br>
+## 🌱 Currently learning:<br>
+- Backend development with Node.js, Express.js, and MongoDB<br>
+- Building RESTful APIs<br>Authentication and security basics<br>
+- Deploying full-stack applications<br><br>
+## 💬 Ask me about:<br>
+- Frontend development (HTML, CSS, JavaScript, React)<br>
+- Responsive web design and UI best practices<br>
+- Learning resources for web development<br><br>
+## 😄 Fun fact:<br>
+- I love solving coding challenges late at night—it’s my idea of fun!
 
 
 ## 🌐 Socials:
