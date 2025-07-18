@@ -12,7 +12,7 @@
 - Responsive web design and UI best practices<br>
 - Learning resources for web development<br><br>
 ## 😄 Fun fact:<br>
-- I love solving coding challenges late at night—it’s my idea of fun!
+- I love experimenting with UI animations and layouts in the quiet of the night—it fuels my creativity.
 
 
 ## 🌐 Socials:
