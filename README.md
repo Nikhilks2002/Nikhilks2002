@@ -8,7 +8,7 @@
 - Building RESTful APIs<br>Authentication and security basics<br>
 - Deploying full-stack applications<br><br>
 ## 💬 Ask me about:<br>
-- Frontend development (HTML, CSS, JavaScript, React)<br>
+- Frontend development (HTML, CSS, JavaScript, React, Node,Vue, Bootstrap, Vite)<br>
 - Responsive web design and UI best practices<br>
 - Learning resources for web development<br><br>
 ## 😄 Fun fact:<br>
